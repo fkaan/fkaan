@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is Kaan
 ![](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47o4vny8vsymd2o20ex532u066c8hiwbe9o2qlca42&rid=giphy.gif&ct=g)
 
-I am Kaan from Turkiye. I really enjoy learning languages. 
+I am Kaan from Türkiye. I really enjoy learning languages. 
 
 Skills: PYTHON / C / WORDPRESS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and C 
 - 📫 How to reach me: fkaanfirat@gmail.com 
 
