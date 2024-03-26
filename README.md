@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Kaan
-![](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47o4vny8vsymd2o20ex532u066c8hiwbe9o2qlca42&rid=giphy.gif&ct=g)
 
 I am Kaan from Turkey. I really enjoy learning languages. 
 
