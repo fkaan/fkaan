@@ -1,8 +1,4 @@
-### Hi there 👋, my name is Kaan
-
-I am Kaan from Turkey. I really enjoy learning languages. 
-
-Skills: PYTHON / C / SQL
+### Hi there 👋
 
 - 🌱 I’m currently learning and coding Python 
 - 📫 How to reach me: fkaanfirat@gmail.com 
